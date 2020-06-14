@@ -1,6 +1,9 @@
 <resources>
-    <string name="activity_main_button_press">Press me!</string>
-    <string name="activity_main_textview_status_not_pressed">Not yet pressed!</string>
-    <string name="acitvity_main_textview_status_pressed">Pressed</string>
+    <string name="activity_main_button_logon">Logon</string>
+    <string name="activity_main_button_hide_views">Hide views</string>
+    <string name="activity_main_button_show_views">Show views</string>
+    <string name="activity_main_login">icarus</string>
+    <string name="activity_main_password">fallen</string>
+    <string name="activity_main_success">It is so sad =(</string>
     <string name="app_name">StepEducation</string>
 </resources>
